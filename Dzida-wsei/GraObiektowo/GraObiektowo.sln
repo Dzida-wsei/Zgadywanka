@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraObiektowo", "GraObiektowo.csproj", "{A29A805C-1C51-4A87-91B2-3A83DB51BF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraConsoleAppObiektowo", "..\GraConsoleAppObiektowo\GraConsoleAppObiektowo.csproj", "{FE1F083F-541E-45EA-9115-7DEADE6D1F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29A805C-1C51-4A87-91B2-3A83DB51BF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29A805C-1C51-4A87-91B2-3A83DB51BF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29A805C-1C51-4A87-91B2-3A83DB51BF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29A805C-1C51-4A87-91B2-3A83DB51BF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1F083F-541E-45EA-9115-7DEADE6D1F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1F083F-541E-45EA-9115-7DEADE6D1F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1F083F-541E-45EA-9115-7DEADE6D1F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1F083F-541E-45EA-9115-7DEADE6D1F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39CAA752-A942-44A5-A28E-DF12C46AAA3C}
+	EndGlobalSection
+EndGlobal
