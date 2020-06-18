@@ -44,7 +44,7 @@ namespace GraConsoleAppObiektowo
                         {
                             Console.WriteLine(ruch);
                         }
-
+                        
                         break;
                     case 2:
                         break;
