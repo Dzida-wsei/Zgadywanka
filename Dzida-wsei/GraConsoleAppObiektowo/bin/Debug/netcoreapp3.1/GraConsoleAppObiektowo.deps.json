@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GraConsoleAppObiektowo/1.0.0": {
+        "dependencies": {
+          "GraObiektowo": "1.0.0"
+        },
+        "runtime": {
+          "GraConsoleAppObiektowo.dll": {}
+        }
+      },
+      "GraObiektowo/1.0.0": {
+        "runtime": {
+          "GraObiektowo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraConsoleAppObiektowo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraObiektowo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
