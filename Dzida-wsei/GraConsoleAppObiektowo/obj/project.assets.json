@@ -1,29 +1,12 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "GraObiektowo/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/GraObiektowo.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/GraObiektowo.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "GraObiektowo/1.0.0": {
-      "type": "project",
-      "path": "../GraObiektowo/GraObiektowo.csproj",
-      "msbuildProject": "../GraObiektowo/GraObiektowo.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "GraObiektowo >= 1.0.0"
+      "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj"
     ]
   },
   "packageFolders": {
@@ -32,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Git\\Zgadywanka\\Dzida-wsei\\Zgadywanka\\GraConsoleAppObiektowo\\GraConsoleAppObiektowo.csproj",
+      "projectUniqueName": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraConsoleAppObiektowo\\GraConsoleAppObiektowo.csproj",
       "projectName": "GraConsoleAppObiektowo",
-      "projectPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\Zgadywanka\\GraConsoleAppObiektowo\\GraConsoleAppObiektowo.csproj",
+      "projectPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraConsoleAppObiektowo\\GraConsoleAppObiektowo.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\Zgadywanka\\GraConsoleAppObiektowo\\obj\\",
+      "outputPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraConsoleAppObiektowo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +35,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Git\\Zgadywanka\\Dzida-wsei\\Zgadywanka\\GraObiektowo\\GraObiektowo.csproj": {
-              "projectPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\Zgadywanka\\GraObiektowo\\GraObiektowo.csproj"
+            "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj": {
+              "projectPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj"
             }
           }
         }
@@ -84,5 +67,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Nie można odnaleźć informacji o projekcie dla elementu „E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj”. Jeśli używasz programu Visual Studio, może to być spowodowane tym, że projekt został rozładowany lub nie jest częścią bieżącego rozwiązania, więc uruchom polecenie przywracania z poziomu wiersza polecenia. W innych przypadkach może to oznaczać, że plik projektu jest nieprawidłowy lub nie zawiera elementów docelowych wymaganych do przywrócenia.",
+      "libraryId": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
