@@ -1,0 +1,9 @@
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraObiektowo\bin\Debug\netstandard2.0\GraObiektowo.deps.json
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraObiektowo\bin\Debug\netstandard2.0\GraObiektowo.dll
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraObiektowo\bin\Debug\netstandard2.0\GraObiektowo.pdb
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraObiektowo\obj\Debug\netstandard2.0\GraObiektowo.csprojAssemblyReference.cache
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraObiektowo\obj\Debug\netstandard2.0\GraObiektowo.AssemblyInfoInputs.cache
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraObiektowo\obj\Debug\netstandard2.0\GraObiektowo.AssemblyInfo.cs
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraObiektowo\obj\Debug\netstandard2.0\GraObiektowo.csproj.CoreCompileInputs.cache
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraObiektowo\obj\Debug\netstandard2.0\GraObiektowo.dll
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraObiektowo\obj\Debug\netstandard2.0\GraObiektowo.pdb
