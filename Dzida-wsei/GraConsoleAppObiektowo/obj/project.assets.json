@@ -1,12 +1,29 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "GraObiektowo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GraObiektowo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GraObiektowo.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "GraObiektowo/1.0.0": {
+      "type": "project",
+      "path": "../GraObiektowo/GraObiektowo.csproj",
+      "msbuildProject": "../GraObiektowo/GraObiektowo.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj"
+      "GraObiektowo >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -67,16 +84,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Nie można odnaleźć informacji o projekcie dla elementu „E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj”. Jeśli używasz programu Visual Studio, może to być spowodowane tym, że projekt został rozładowany lub nie jest częścią bieżącego rozwiązania, więc uruchom polecenie przywracania z poziomu wiersza polecenia. W innych przypadkach może to oznaczać, że plik projektu jest nieprawidłowy lub nie zawiera elementów docelowych wymaganych do przywrócenia.",
-      "libraryId": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

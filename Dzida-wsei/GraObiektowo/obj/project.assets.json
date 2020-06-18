@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Git\\Zgadywanka\\Dzida-wsei\\Zgadywanka\\GraObiektowo\\GraObiektowo.csproj",
+      "projectUniqueName": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj",
       "projectName": "GraObiektowo",
-      "projectPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\Zgadywanka\\GraObiektowo\\GraObiektowo.csproj",
+      "projectPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\Zgadywanka\\GraObiektowo\\obj\\",
+      "outputPath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z3cvpBdeN9r5QfjVtRegvb8Zgw55WMNwbdOY5AePl4dcSFCD/0/20sKzWI4edTz6cKZCsa7v/a3Jo+vBhKPbYQ==",
+  "dgSpecHash": "y6tPaGInEd9SmBhYmtlWiQYzDnG54uvMx9/K1dWctoM6iWOphpzAhnHTJNsYRgLJijlzr3s8r4dip5ghclBTEA==",
   "success": true,
-  "projectFilePath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\Zgadywanka\\GraObiektowo\\GraObiektowo.csproj",
+  "projectFilePath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

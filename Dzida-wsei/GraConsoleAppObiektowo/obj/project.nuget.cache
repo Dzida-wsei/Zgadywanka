@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/kVvTB7aawmvka5FKuM8jz1rguY0u0bfPfEQMT4U3eWgub3dg0eLoYWZVxMzPa9h468QYLy73FRy2JRbxdLqDQ==",
-  "success": false,
+  "dgSpecHash": "X8m1EYsH9Nvgwtxyo5A8fXnT6zb/MSiodXoNknYJns/HOu+OtcNWnubs1OOAKVtGLFCMxmfrqIoT5usq1GjAgg==",
+  "success": true,
   "projectFilePath": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraConsoleAppObiektowo\\GraConsoleAppObiektowo.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Nie można odnaleźć informacji o projekcie dla elementu „E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj”. Jeśli używasz programu Visual Studio, może to być spowodowane tym, że projekt został rozładowany lub nie jest częścią bieżącego rozwiązania, więc uruchom polecenie przywracania z poziomu wiersza polecenia. W innych przypadkach może to oznaczać, że plik projektu jest nieprawidłowy lub nie zawiera elementów docelowych wymaganych do przywrócenia.",
-      "libraryId": "E:\\Git\\Zgadywanka\\Dzida-wsei\\GraObiektowo\\GraObiektowo.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
