@@ -1,0 +1,16 @@
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\bin\Debug\netcoreapp3.1\GraConsoleAppObiektowo.exe
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\bin\Debug\netcoreapp3.1\GraConsoleAppObiektowo.deps.json
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\bin\Debug\netcoreapp3.1\GraConsoleAppObiektowo.runtimeconfig.json
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\bin\Debug\netcoreapp3.1\GraConsoleAppObiektowo.runtimeconfig.dev.json
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\bin\Debug\netcoreapp3.1\GraConsoleAppObiektowo.dll
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\bin\Debug\netcoreapp3.1\GraConsoleAppObiektowo.pdb
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\bin\Debug\netcoreapp3.1\GraObiektowo.dll
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\bin\Debug\netcoreapp3.1\GraObiektowo.pdb
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\obj\Debug\netcoreapp3.1\GraConsoleAppObiektowo.csprojAssemblyReference.cache
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\obj\Debug\netcoreapp3.1\GraConsoleAppObiektowo.AssemblyInfoInputs.cache
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\obj\Debug\netcoreapp3.1\GraConsoleAppObiektowo.AssemblyInfo.cs
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\obj\Debug\netcoreapp3.1\GraConsoleAppObiektowo.csproj.CoreCompileInputs.cache
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\obj\Debug\netcoreapp3.1\GraConsoleAppObiektowo.csproj.CopyComplete
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\obj\Debug\netcoreapp3.1\GraConsoleAppObiektowo.dll
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\obj\Debug\netcoreapp3.1\GraConsoleAppObiektowo.pdb
+E:\Git\Zgadywanka\Dzida-wsei\Zgadywanka\GraConsoleAppObiektowo\obj\Debug\netcoreapp3.1\GraConsoleAppObiektowo.genruntimeconfig.cache
