@@ -70,6 +70,9 @@ namespace GraObiektowo
                 StanGry = Status.Zakonczona;
                 odp = Odpowiedz.Trafiono;
             }
+            else if (propozycja + 2 == liczbaDoOdgadniecia)
+                odp = Odpowiedz.ZaDuzo;
+            
             else if (propozycja < liczbaDoOdgadniecia)
                 odp = Odpowiedz.ZaMalo;
             else
@@ -79,6 +82,7 @@ namespace GraObiektowo
             historia.Add(ruch);
             return odp;
         }
+
 
 
         public int Przerwij()

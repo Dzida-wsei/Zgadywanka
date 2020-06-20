@@ -20,8 +20,8 @@ namespace GraConsoleAppObiektowo
             {
                 Console.WriteLine("-------------------");
                 Console.WriteLine("1. Podaję liczbę");
-                Console.WriteLine("2. Odszyfruj swoj tekst");
-                Console.WriteLine("0. Poddaj się");
+                Console.WriteLine("2. ");
+                Console.WriteLine("0. Poddaję się");
                 Console.WriteLine("-------------------");
                 menu = int.Parse(Console.ReadLine());
                 switch (menu)
