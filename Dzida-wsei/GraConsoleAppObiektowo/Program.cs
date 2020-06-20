@@ -9,18 +9,19 @@ namespace GraConsoleAppObiektowo
         {
             Console.WriteLine("Witaj, zagrajmy w zgadywankę");
             Console.WriteLine("Pamiętaj, komputer może Cię raz oszukać");
-            Console.Write("Podaj min i maks oddzielone spacją: ");
+            Console.Write("Podaj min i max oddzielone spacją: ");
             string[] dane = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
             int[] zakres = Array.ConvertAll(dane, int.Parse);
 
             ModelGry gra = new ModelGry(zakres[0], zakres[1]);
+            Console.WriteLine("Wylosowałem liczbę");
 
             int menu;
             do
             {
                 Console.WriteLine("-------------------");
+                Console.WriteLine(" Co chcesz zrobić?");
                 Console.WriteLine("1. Podaję liczbę");
-                Console.WriteLine("2. ");
                 Console.WriteLine("0. Poddaję się");
                 Console.WriteLine("-------------------");
                 menu = int.Parse(Console.ReadLine());
@@ -38,7 +39,7 @@ namespace GraConsoleAppObiektowo
                         Console.WriteLine(gra.StanGry);
                         break;
                     case 1:
-                        Console.Write("Wylosowałem liczbę, podaj propozycję:");
+                        Console.Write("Podaj propozycję:");
                         var prop = int.Parse(Console.ReadLine());
                         var odp = gra.Ocena(prop);
                         foreach (var ruch in gra.HistoriaGry)
@@ -46,8 +47,6 @@ namespace GraConsoleAppObiektowo
                             Console.WriteLine(ruch);
                         }
                         
-                        break;
-                    case 2:
                         break;
                     default:
                         Console.Clear();

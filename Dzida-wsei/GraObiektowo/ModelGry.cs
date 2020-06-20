@@ -30,9 +30,9 @@ namespace GraObiektowo
         public int MaksymalnaLiczbaDoOdgadniecia { get; private set; }
 
         public Status StanGry { get; private set; }
-
         // historia gry
         private readonly List<Ruch> historia;
+
         public IReadOnlyList<Ruch> HistoriaGry => historia.AsReadOnly();
 
 
@@ -64,15 +64,21 @@ namespace GraObiektowo
         /// </example>
         public Odpowiedz Ocena(int propozycja)
         {
+            Random rand = new Random();
+            int test = rand.Next(0, 2);
             Odpowiedz odp;
             if (propozycja == liczbaDoOdgadniecia)
             {
                 StanGry = Status.Zakonczona;
                 odp = Odpowiedz.Trafiono;
             }
-            else if (propozycja + 2 == liczbaDoOdgadniecia)
+            else if (propozycja + 2 == liczbaDoOdgadniecia && test == 0)
+
+                odp = Odpowiedz.ZaMalo;
+            else if (propozycja + 2 == liczbaDoOdgadniecia && test == 1)
+
                 odp = Odpowiedz.ZaDuzo;
-            
+
             else if (propozycja < liczbaDoOdgadniecia)
                 odp = Odpowiedz.ZaMalo;
             else
@@ -82,7 +88,6 @@ namespace GraObiektowo
             historia.Add(ruch);
             return odp;
         }
-
 
 
         public int Przerwij()
