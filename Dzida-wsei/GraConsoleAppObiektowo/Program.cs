@@ -21,8 +21,9 @@ namespace GraConsoleAppObiektowo
             {
                 Console.WriteLine("-------------------");
                 Console.WriteLine(" Co chcesz zrobić?");
-                Console.WriteLine("1. Podaję liczbę");
                 Console.WriteLine("0. Poddaję się");
+                Console.WriteLine("1. Podaję liczbę");
+                Console.WriteLine("2. Wyłączam grę");
                 Console.WriteLine("-------------------");
                 menu = int.Parse(Console.ReadLine());
                 switch (menu)
@@ -47,6 +48,9 @@ namespace GraConsoleAppObiektowo
                             Console.WriteLine(ruch);
                         }
                         
+                        break;
+                    case 2:
+                        Environment.Exit(0);
                         break;
                     default:
                         Console.Clear();
