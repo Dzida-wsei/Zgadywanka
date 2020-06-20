@@ -7,7 +7,8 @@ namespace GraConsoleAppObiektowo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Witaj");
+            Console.WriteLine("Witaj, zagrajmy w zgadywankę");
+            Console.WriteLine("Pamiętaj, komputer może Cię raz oszukać");
             Console.Write("Podaj min i maks oddzielone spacją: ");
             string[] dane = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
             int[] zakres = Array.ConvertAll(dane, int.Parse);
